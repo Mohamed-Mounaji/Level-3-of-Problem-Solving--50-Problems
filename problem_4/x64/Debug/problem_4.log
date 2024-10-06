@@ -1,0 +1,3 @@
+﻿  problem_4.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_4\problem_4.cpp(60,6): warning C4101: 'SumsArr': unreferenced local variable
+  problem_4.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_4\x64\Debug\problem_4.exe

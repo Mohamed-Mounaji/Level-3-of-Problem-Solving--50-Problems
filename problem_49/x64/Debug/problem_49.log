@@ -1,0 +1,3 @@
+﻿  problem_49.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_49\problem_49.cpp(34,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  problem_49.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_49\x64\Debug\problem_49.exe

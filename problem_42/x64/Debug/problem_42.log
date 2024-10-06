@@ -1,0 +1,5 @@
+﻿  problem_42.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_42\problem_42.cpp(12,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_42\problem_42.cpp(50,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_42\problem_42.cpp(54,22): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  problem_42.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_42\x64\Debug\problem_42.exe

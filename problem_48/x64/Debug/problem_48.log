@@ -1,0 +1,4 @@
+﻿  problem_48.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_48\problem_48.cpp(26,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_48\problem_48.cpp(118,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  problem_48.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelThreeOfProblemSolving\problem_48\x64\Debug\problem_48.exe
